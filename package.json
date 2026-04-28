@@ -1,6 +1,6 @@
 {
   "name": "@2ltech/pg-format",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Node.js implementation of PostgreSQL's format() to safely create dynamic SQL queries.",
   "homepage": "https://github.com/2lTech/pg-format",
   "type": "module",
@@ -22,13 +22,13 @@
     "check": ".github/workflows/check.sh"
   },
   "devDependencies": {
-    "@swc/cli": "0.7.9",
-    "@swc/core": "1.15.8",
+    "@swc/cli": "0.8.1",
+    "@swc/core": "1.15.32",
     "@swc/jest": "0.2.39",
     "@types/jest": "30.0.0",
     "depcheck": "1.4.7",
-    "jest": "30.2.0",
-    "prettier": "3.7.4"
+    "jest": "30.3.0",
+    "prettier": "3.8.3"
   },
   "packageManager": "yarn@4.10.3"
 }
